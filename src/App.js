@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Test PR for Firebase hosting
+          Test PR for Firebase hosting. Check Cache content policy!
         </p>
         <a
           className="App-link"
