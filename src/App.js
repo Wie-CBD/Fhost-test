@@ -9,7 +9,7 @@ function App() {
         <p>
           Test PR for Firebase hosting. Check Cache content policy!
           <br/>
-          Now this doesn't have no-cache policy
+          Now this has no-cache policy
         </p>
         <a
           className="App-link"
