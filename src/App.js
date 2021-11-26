@@ -8,6 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Test PR for Firebase hosting. Check Cache content policy!
+          <br/>
+          Now this doesn't have no-cache policy
         </p>
         <a
           className="App-link"
